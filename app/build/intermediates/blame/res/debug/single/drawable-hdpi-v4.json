@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GitHub_clone\\jibuqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "D:\\GitHub_clone\\jibuqi\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "D:\\GitHub_clone\\jibuqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wy.jpg",
+        "source": "D:\\GitHub_clone\\jibuqi\\app\\src\\main\\res\\drawable-hdpi\\wy.jpg"
+    },
+    {
+        "merged": "D:\\GitHub_clone\\jibuqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sport.png",
+        "source": "D:\\GitHub_clone\\jibuqi\\app\\src\\main\\res\\drawable-hdpi\\sport.png"
+    },
+    {
+        "merged": "D:\\GitHub_clone\\jibuqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.jpg",
+        "source": "D:\\GitHub_clone\\jibuqi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
+    }
+]

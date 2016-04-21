@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise_type_preference">
+        <item>@string/exercise_type_running</item>
+        <item>@string/exercise_type_walking</item>
+    </string-array>
+    <string-array name="exercise_type_preference_values">
+        <item>running</item>
+        <item>walking</item>
+    </string-array>
+    <string-array name="operation_level_preference">
+        <item>@string/run_in_background</item>
+        <item>@string/keep_screen_on</item>
+        <item>@string/wake_up</item>
+    </string-array>
+    <string-array name="operation_level_preference_values">
+        <item>run_in_background</item>
+        <item>keep_screen_on</item>
+        <item>wake_up</item>
+    </string-array>
+    <string-array name="sensitivity_preference">
+        <item>@string/extra_high</item>
+        <item>@string/very_high</item>
+        <item>@string/high</item>
+        <item>@string/higher</item>
+        <item>@string/medium</item>
+        <item>@string/lower</item>
+        <item>@string/low</item>
+        <item>@string/very_low</item>
+        <item>@string/extra_low</item>
+    </string-array>
+    <string-array name="sensitivity_preference_values">
+        <item>1.9753</item>
+        <item>2.9630</item>
+        <item>4.4444</item><!-- 10 * 1.5^(-2) -->
+        <item>6.6667</item><!-- 10 * 1.5^(-1) -->
+        <item>10</item>
+        <item>15</item><!--     10 * 1.5      -->
+        <item>22.5</item><!--   10 * 1.5^2    -->
+        <item>33.75</item>
+        <item>50.625</item>
+    </string-array>
+    <string-array name="units_preference">
+        <item>@string/units_metric</item>
+        <item>@string/units_imperial</item>
+    </string-array>
+    <string-array name="units_preference_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+    <color name="display_background">#000</color>
+    <color name="screen_background">#333</color>
+    <dimen name="button">48sp</dimen>
+    <dimen name="button_sign">24sp</dimen>
+    <dimen name="desired_pace">36sp</dimen>
+    <dimen name="desired_pace_width">128sp</dimen>
+    <dimen name="large_half">240px</dimen>
+    <dimen name="margin">10px</dimen>
+    <dimen name="padding">5px</dimen>
+    <dimen name="row_spacing">10px</dimen>
+    <dimen name="small_value">30sp</dimen>
+    <dimen name="step_count">30sp</dimen>
+    <dimen name="units">11sp</dimen>
+    <dimen name="value">45sp</dimen>
+    <string name="activity_settings">计步器设置</string>
+    <string name="app_name">计步器</string>
+    <string name="body_weight_setting">体重</string>
+    <string name="body_weight_setting_details">热量（卡路里）计算</string>
+    <string name="body_weight_setting_title">输入您的体重</string>
+    <string name="calories_burned">消耗卡路里</string>
+    <string name="centimeters">厘米</string>
+    <string name="desired_pace">Desired pace:</string>
+    <string name="desired_speed">Desired speed:</string>
+    <string name="exercise_type_running">跑步</string>
+    <string name="exercise_type_setting">运动类型</string>
+    <string name="exercise_type_setting_details">热量（卡路里）计算</string>
+    <string name="exercise_type_setting_title">选择运动类型</string>
+    <string name="exercise_type_walking">散步</string>
+    <string name="extra_high">超高</string>
+    <string name="extra_low">超低</string>
+    <string name="high">高</string>
+    <string name="higher">更高</string>
+    <string name="inches">英寸</string>
+    <string name="incorrect_step_length">不正确的步骤长度格式！去设置来改变它！</string>
+    <string name="keep_screen_on">Screen on (keep screen dim)</string>
+    <string name="kilograms">公斤</string>
+    <string name="kilometers">公里</string>
+    <string name="kilometers_per_hour">公里/小时</string>
+    <string name="low">低</string>
+    <string name="lower">更低</string>
+    <string name="medium">中</string>
+    <string name="miles">英里</string>
+    <string name="miles_per_hour">英里/小时</string>
+    <string name="notification_subtitle">计算你的步数</string>
+    <string name="operation_level_setting">Operational level</string>
+    <string name="operation_level_setting_details">Some OS versions prevent using sensors when the screen is off; set the level that works for you</string>
+    <string name="operation_level_setting_title">Select operational level</string>
+    <string name="pause">暂停</string>
+    <string name="pounds">英镑</string>
+    <string name="quit">退出</string>
+    <string name="reset">重置</string>
+    <string name="resume">开始</string>
+    <string name="run_in_background">Normal (just try running in background)</string>
+    <string name="sensitivity_setting">灵敏度</string>
+    <string name="sensitivity_setting_details">标准步数检测</string>
+    <string name="sensitivity_setting_title">选择灵敏度等级</string>
+    <string name="settings">设置</string>
+    <string name="started">计步器开始.</string>
+    <string name="step_length_setting">步长</string>
+    <string name="step_length_setting_details">对于距离，速度和卡路里计算</string>
+    <string name="step_length_setting_title">输入您的步长</string>
+    <string name="steps">步数</string>
+    <string name="steps_per_minute">步数/分钟</string>
+    <string name="steps_settings_title">基本设置</string>
+    <string name="stopped">计步器结束.</string>
+    <string name="units_imperial">英里</string>
+    <string name="units_metric">公里 (千米)</string>
+    <string name="units_setting">单位</string>
+    <string name="units_setting_details">千米或英里</string>
+    <string name="units_setting_title">选择你的单位</string>
+    <string name="very_high">非常高</string>
+    <string name="very_low">非常低</string>
+    <string name="wake_up">Aggressive (wake up when I turn screen off)</string>
+</resources>

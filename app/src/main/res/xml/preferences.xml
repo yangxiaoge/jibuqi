@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/steps_settings_title">
+            
+        <ListPreference
+                android:key="sensitivity"
+                android:title="@string/sensitivity_setting"
+                android:summary="@string/sensitivity_setting_details"
+                android:entries="@array/sensitivity_preference"
+                android:entryValues="@array/sensitivity_preference_values"
+                android:dialogTitle="@string/sensitivity_setting_title"
+                android:defaultValue="30" /><!-- 默认灵敏度为30 -->
+
+        <!-- <ListPreference
+                android:key="operation_level"
+                android:title="@string/operation_level_setting"
+                android:summary="@string/operation_level_setting_details"
+                android:entries="@array/operation_level_preference"
+                android:entryValues="@array/operation_level_preference_values"
+                android:dialogTitle="@string/operation_level_setting_title"
+                android:defaultValue="30" /> -->
+
+        <ListPreference
+                android:key="units"
+                android:title="@string/units_setting"
+                android:summary="@string/units_setting_details"
+                android:entries="@array/units_preference"
+                android:entryValues="@array/units_preference_values"
+                android:dialogTitle="@string/units_setting_title"
+                android:defaultValue="imperial" /> <!-- 默认单位英里 -->
+
+        <name.bagi.levente.pedometer.preferences.StepLengthPreference
+                android:key="step_length"
+                android:title="@string/step_length_setting"
+                android:summary="@string/step_length_setting_details"
+                android:dialogTitle="@string/step_length_setting_title"
+                android:defaultValue="20" />
+            
+        <name.bagi.levente.pedometer.preferences.BodyWeightPreference
+                android:key="body_weight"
+                android:title="@string/body_weight_setting"
+                android:summary="@string/body_weight_setting_details"
+                android:dialogTitle="@string/body_weight_setting_title"
+                android:defaultValue="50" />
+            
+        <ListPreference
+                android:key="exercise_type"
+                android:title="@string/exercise_type_setting"
+                android:summary="@string/exercise_type_setting_details"
+                android:entries="@array/exercise_type_preference"
+                android:entryValues="@array/exercise_type_preference_values"
+                android:dialogTitle="@string/exercise_type_setting_title"
+                android:defaultValue="running" />
+                
+        <!-- <ListPreference
+                android:key="maintain"
+                android:title="@string/maintain_setting"
+                android:summary="@string/maintain_setting_details"
+                android:entries="@array/maintain_preference"
+                android:entryValues="@array/maintain_preference_values"
+                android:dialogTitle="@string/maintain_setting_title"
+                android:defaultValue="none" /> -->
+
+    </PreferenceCategory>
+  
+</PreferenceScreen>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dikey0602/BMapApiDemoApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dikey0602/RouteLineActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/PedometerSettings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/StepDetector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/StepDisplayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/StepService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/WalkingActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/preferences/BodyWeightPreference.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/preferences/EditMeasurementPreference.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/name/bagi/levente/pedometer/preferences/StepLengthPreference.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

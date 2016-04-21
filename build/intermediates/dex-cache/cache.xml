@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub_clone\jibuqi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d83fbbf47bdb002657ef69f6c86ca9e9d810ae93">
+        <dex dex="D:\GitHub_clone\jibuqi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f42e78344682995d4103450a4d98713686df0e18\classes.dex" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\jibuqi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbfd2d0ae1e92e04bca40189f3ae4fd37041a4a3">
+        <dex dex="D:\GitHub_clone\jibuqi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_17717217be2de2a744738f6d60143213fbc19154\classes.dex" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\jibuqi\app\libs\baidumapapi.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="99219e3670fffc0f42da76ea3af03e921e037917">
+        <dex dex="D:\GitHub_clone\jibuqi\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_a8d5b4f02103c08cda6a2557b0c74b6ae072a27e\classes.dex" />
+    </item>
+
+</items>
